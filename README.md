@@ -1,0 +1,1 @@
+A trivial Bazel project, with an empty WORKSPACE and a single `java_binary` target, `x`, intended to test Bazel's IntelliJ Remote Development.
